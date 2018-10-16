@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/main.cpp
+sys/types.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+time.h
+-
+vector
+-
+string
+-
+fstream
+-
+iostream
+-
+sstream
+-
+

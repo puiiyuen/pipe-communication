@@ -1,0 +1,3 @@
+/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/CMakeFiles/A01_pgm.dir

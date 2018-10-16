@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="A01_pgm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A01_pgm">
+				<Option output="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 A01_pgm"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A01_pgm/fast">
+				<Option output="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 A01_pgm/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/Study/Computer\ Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/CMakeLists.txt">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm.cbp">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm.exe">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm.ilk">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/A01_pgm.pdb">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/CMakeCache.txt">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/Makefile">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/cmake-build-debug/cmake_install.cmake">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/main.cpp">
+			<Option target="A01_pgm"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/Study/Computer Science/CSCI3431/A01/A01_pgm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

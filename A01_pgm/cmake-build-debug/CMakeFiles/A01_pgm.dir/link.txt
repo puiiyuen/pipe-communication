@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/A01_pgm.dir/main.cpp.o  -o A01_pgm 
